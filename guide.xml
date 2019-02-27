@@ -4,7 +4,7 @@
     <display-name lang="en">Example</display-name>
   </channel>
   <channel id="Multishow HD">
-    <display-name lang="pt">Multishow HD</display-name>
+    <display-name lang="pt">159 - Multishow HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
   <programme start="20190227000000 +0000" stop="20190227235900 +0000" channel="Example">
